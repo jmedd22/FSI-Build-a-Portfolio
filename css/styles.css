@@ -3,4 +3,7 @@ img {background-color: black;
      border-radius: 10px;
      border-style: solid;
 }
+img {height: 350px;
+     width: auto;
+}
 
