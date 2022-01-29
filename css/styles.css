@@ -1,3 +1,4 @@
+
 body {background-color: #515a6e;}
 img {background-color: black;
      border-radius: 10px;
@@ -6,3 +7,5 @@ img {background-color: black;
 img {height: 300px;
      width: auto;
 }
+.header-section,h1 {text-align: center;}
+
