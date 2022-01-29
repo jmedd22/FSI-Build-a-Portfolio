@@ -1,5 +1,5 @@
 
-body {background-color: #515a6e;}
+body {background-color: #515a6e;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 img {background-color: black;
      border-radius: 10px;
      border-style: solid;
@@ -7,5 +7,3 @@ img {background-color: black;
 img  {height: 300px;
      width: auto;
 }
-.header-section,h1 {text-align: center;}
-
