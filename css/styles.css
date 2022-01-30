@@ -1,5 +1,8 @@
 
 body {
+     margin-left: 35px;
+     margin-right: 35px;
+     align-content: center;
      background-color: #515a6e;
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -15,13 +18,24 @@ body {
      align-content: center;
 }
 
-h1,h2,h3 {text-align: center;}
+h2 {text-align: center;}
+
+.contact-me {text-align: center;}
 
 .header {
-     display:block;
-     height: 100%;
-     width: 85%;
      margin-right: auto;
      margin-left: auto;
      align-content: center;
+     text-align: center;
+}
+
+.main-text {text-align: center;}
+
+.coming-soon {
+     height: auto;
+     width: 300px;
+     background-color: black;
+     border-radius: 12px;
+     border-style: solid;
+
 }
